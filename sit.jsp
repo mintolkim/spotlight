@@ -10,9 +10,6 @@
 <body>
 <%@ include file="../include/menu.jsp" %>
 
-
-<h2>업로드 테스트</h2>
-<p>지혜-브랜치 테스트</p>
-<h2>uploadTest_sj</h2>
+<h2>안녕</h2>
 </body>
 </html>
